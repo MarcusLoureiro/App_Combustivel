@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Compare Combustíveis</string>
+
+    <string name="text_info">Insira nos campos abaixo os respectivos preços dos combustíveis.</string>
+    <string name="text_resultado">Resultado:</string>
+    <string name="hint_gasolina">Valor Gasolina</string>
+    <string name="hint_etanol">Valor Etanol</string>
+    <string name="bt_comparar">Comparar</string>
+
+</resources>
